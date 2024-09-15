@@ -42,11 +42,6 @@ The project is organized into the following directories and files:
 1. Open **`index.html`** in a web browser to view the main page with links to recipes.
 2. Click on the links to view individual recipe pages, which include images, descriptions, ingredients, and preparation steps.
 
-## Notes
-
-- Make sure to replace placeholder names (e.g., **`lasagna.html`**, **`recipe2.html`**, **`recipe3.html`**) with actual recipe names.
-- For images, descriptions, and content, you can find recipes and images online or use your own.
-
 ## License
 
 This project is created for educational purposes as part of the Odin Project curriculum. Feel free to use and modify the code for personal use or learning.
